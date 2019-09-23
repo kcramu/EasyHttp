@@ -57,6 +57,7 @@
 #endregion
 namespace EasyHttp.Http
 {
+    // Test changes
     public enum CacheControl
     {
         NoCache,
